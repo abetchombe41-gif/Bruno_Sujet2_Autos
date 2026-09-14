@@ -1,0 +1,4 @@
+id,marque,modele,annee,km,prix,carburant,transmission,couleur,ville,typeVendeur,datePublication,description
+1,Toyota,Corolla,2018,85000,16500,ESSENCE,AUTOMATIQUE,Gris,Montreal,CONCESSIONNAIRE,2026-09-01,Tres economique et propre.
+2,Honda,Civic,2015,140000,11200,ESSENCE,MANUELLE,Noir,Quebec,PARTICULIER,2026-08-15,Freins neufs et bien entretenue.
+3,Tesla,Model 3,2021,45000,38000,ELECTRIQUE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-10,Autonomie excellente.
