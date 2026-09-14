@@ -15,6 +15,7 @@
     </properties>
 
     <dependencies>
+        <!-- JavaFX Modules indispensables demandés par l'enseignant -->
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>

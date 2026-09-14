@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<HBox spacing="15" style="-fx-padding: 15;" xmlns="http://javafx.com" xmlns:fx="http://fxml.com" fx:controller="com.app.controller.MainController">
+    
+    <!-- PANNEAU GAUCHE: FILTRES & RECHERCHE -->
+    <VBox spacing="10" prefWidth="250">
+        <Label text="Recherche &amp; Filtres" style="-fx-font-weight: bold; -fx-font-size: 14;"/>
+        <TextField fx:id="txtRecherche" promptText="Rechercher marque/modèle..."/>
+        
+        <Label text="Marque :"/>
+        <ComboBox fx:id="comboMarque" prefWidth="250"/>
+        
+        <Label text="Prix Maximum :"/>
+        <Slider fx:id="sliderPrixMax" min="0" max="100000" value="100000" showTickLabels="true" showTickMarks="true"/>
+        
+        <Separator/>
+        <Label text="Tri :"/>
+        <ComboBox fx:id="comboTri" prefWidth="250"/>
+
+        <Separator/>
+        <Label text="Vos Favoris :" style="-fx-font-weight: bold;"/>
+        <ListView fx:id="listFavoris" prefHeight="150"/>
+        <Button text="Retirer des favoris" onAction="#actionRetirerFavoris" prefWidth="250"/>
+    </VBox>
+
+    <!-- PANNEAU CENTRAL: LISTE ET PAGINATION -->
+    <VBox spacing="10" HBox.hgrow="ALWAYS">
+        <Label text="Catalogue des véhicules" style="-fx-font-weight: bold; -fx-font-size: 14;"/>
+        <ListView fx:id="listAnnonces" VBox.vgrow="ALWAYS"/>
+        
+        <HBox spacing="10" alignment="CENTER">
+            <Button text="Précédent" onAction="#pagePrecedente"/>
+            <Button text="Suivant" onAction="#pageSuivante"/>
+        </HBox>
+        <Label fx:id="lblBenchmark" text="Benchmark - Bubble: 0ms | Merge: 0ms" style="-fx-font-style: italic; -fx-text-fill: gray;"/>
+    </VBox>
+
+    <!-- PANNEAU DROIT: DÉTAILS DE L'ANNONCE -->
+    <VBox spacing="12" prefWidth="280" style="-fx-border-color: #cccccc; -fx-padding: 10; -fx-background-color: #fafafa;">
+        <Label text="Détails du véhicule" style="-fx-font-weight: bold; -fx-font-size: 14;"/>
+        <Label fx:id="lblTitre" text="Sélectionnez une voiture" style="-fx-font-weight: bold; -fx-font-size: 12;"/>
+        <Label fx:id="lblPrix" style="-fx-text-fill: green; -fx-font-size: 16; -fx-font-weight: bold;"/>
+        <Label fx:id="lblPrixKm" style="-fx-font-weight: bold;"/>
+        <Label fx:id="lblKm"/>
+        <Label fx:id="lblCarburant"/>
+        <Label fx:id="lblTransmission"/>
+        <Label fx:id="lblVille"/>
+        <Label fx:id="lblDescription" wrapText="true" VBox.vgrow="ALWAYS"/>
+        
+        <Button text="Ajouter aux favoris" onAction="#actionAjouterFavoris" prefWidth="280" style="-fx-background-color: #0078d4; -fx-text-fill: white;"/>
+    </VBox>
+
+</HBox>

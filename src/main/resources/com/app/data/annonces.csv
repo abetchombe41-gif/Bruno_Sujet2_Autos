@@ -2,3 +2,20 @@ id,marque,modele,annee,km,prix,carburant,transmission,couleur,ville,typeVendeur,
 1,Toyota,Corolla,2018,85000,16500,ESSENCE,AUTOMATIQUE,Gris,Montreal,CONCESSIONNAIRE,2026-09-01,Tres economique et propre.
 2,Honda,Civic,2015,140000,11200,ESSENCE,MANUELLE,Noir,Quebec,PARTICULIER,2026-08-15,Freins neufs et bien entretenue.
 3,Tesla,Model 3,2021,45000,38000,ELECTRIQUE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-10,Autonomie excellente.
+4,Ford,Escape,2017,98000,14500,ESSENCE,AUTOMATIQUE,Bleu,Montreal,CONCESSIONNAIRE,2026-09-02,Excellent VUS familial bien entretenu.
+5,BMW,Série 3,2016,120000,18900,ESSENCE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2026-08-20,Modèle sport avec pneus d'été inclus.
+6,Toyota,RAV4,2019,65000,24000,HYBRIDE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-05,Très économique, un seul propriétaire.
+7,Honda,CR-V,2018,88000,21500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-04,Toit ouvrant et sièges chauffants.
+8,Hyundai,Elantra,2015,132000,8900,ESSENCE,MANUELLE,Rouge,Sherbrooke,PARTICULIER,2026-08-11,Idéal pour étudiant. Fiable et économique.
+9,Tesla,Model Y,2022,31000,43500,ELECTRIQUE,AUTOMATIQUE,Gris,Longueuil,CONCESSIONNAIRE,2026-09-12,Excellente condition, balance de garantie.
+10,Nissan,Rogue,2017,105000,13400,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,PARTICULIER,2026-08-28,VUS spacieux, freins et batterie neufs.
+11,Volkswagen,Golf,2015,145000,9800,DIESEL,MANUELLE,Bleu,Montreal,PARTICULIER,2026-08-05,Moteur TDI très économique sur l'autoroute.
+12,Audi,A4,2018,76000,23900,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-07,Système Quattro, intérieur en cuir impeccable.
+13,Mazda,3,2020,48000,19200,ESSENCE,AUTOMATIQUE,Rouge,Laval,CONCESSIONNAIRE,2026-09-10,Technologie SkyActiv, look très dynamique.
+14,Kia,Forte,2019,59000,15400,ESSENCE,AUTOMATIQUE,Blanc,Gatineau,PARTICULIER,2026-08-22,Garantie de base encore valide, très propre.
+15,Chevrolet,Bolt,2020,42000,21000,ELECTRIQUE,AUTOMATIQUE,Bleu,Sherbrooke,CONCESSIONNAIRE,2026-09-01,Autonomie de 417 km. Parfait état.
+16,Subaru,Impreza,2016,118000,12500,ESSENCE,MANUELLE,Gris,Trois-Rivieres,PARTICULIER,2026-08-14,Traction intégrale légendaire, idéale pour l'hiver.
+17,Jeep,Grand Cherokee,2018,92000,26800,ESSENCE,AUTOMATIQUE,Noir,Montreal,CONCESSIONNAIRE,2026-09-09,Capacité de remorquage excellente, tout équipé.
+18,Toyota,Camry,2015,160000,11900,HYBRIDE,AUTOMATIQUE,Argent,Quebec,PARTICULIER,2026-07-30,Fiabilité à toute épreuve, freins récents.
+19,Honda,Accord,2017,94000,17300,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-03,Berline confortable et spacieuse, bien équipée.
+20,Ford,F-150,2018,110000,29500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-11,Moteur EcoBoost, prêt pour le travail.
