@@ -41,6 +41,7 @@ public class Annonce {
     public int getKilometrage() { return kilometrage; }
     public double getPrix() { return prix; }
     public TypeCarburant getCarburant() { return carburant; }
+    public String getCouleur() { return couleur; }
     public Transmission getTransmission() { return transmission; }
     public String getVille() { return ville; }
     public LocalDate getDatePublication() { return datePublication; }

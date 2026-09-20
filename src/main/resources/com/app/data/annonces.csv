@@ -4,18 +4,298 @@ id,marque,modele,annee,km,prix,carburant,transmission,couleur,ville,typeVendeur,
 3,Tesla,Model 3,2021,45000,38000,ELECTRIQUE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-10,Autonomie excellente.
 4,Ford,Escape,2017,98000,14500,ESSENCE,AUTOMATIQUE,Bleu,Montreal,CONCESSIONNAIRE,2026-09-02,Excellent VUS familial bien entretenu.
 5,BMW,Série 3,2016,120000,18900,ESSENCE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2026-08-20,Modèle sport avec pneus d'été inclus.
-6,Toyota,RAV4,2019,65000,24000,HYBRIDE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-05,Très économique, un seul propriétaire.
-7,Honda,CR-V,2018,88000,21500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-04,Toit ouvrant et sièges chauffants.
+6,Toyota,RAV4,2019,65000,24000,HYBRIDE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-05,"Très économique, un seul propriétaire"
+7,Honda,CR-V,2018,88000,21500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-04,Toit ouvrant et sieges chauffants.
 8,Hyundai,Elantra,2015,132000,8900,ESSENCE,MANUELLE,Rouge,Sherbrooke,PARTICULIER,2026-08-11,Idéal pour étudiant. Fiable et économique.
-9,Tesla,Model Y,2022,31000,43500,ELECTRIQUE,AUTOMATIQUE,Gris,Longueuil,CONCESSIONNAIRE,2026-09-12,Excellente condition, balance de garantie.
-10,Nissan,Rogue,2017,105000,13400,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,PARTICULIER,2026-08-28,VUS spacieux, freins et batterie neufs.
+9,Tesla,Model Y,2022,31000,43500,ELECTRIQUE,AUTOMATIQUE,Gris,Longueuil,CONCESSIONNAIRE,2026-09-12,"Excellente condition, balance de garantie."
+10,Nissan,Rogue,2017,105000,13400,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,PARTICULIER,2026-08-28,"VUS spacieux, freins et batterie neufs."
 11,Volkswagen,Golf,2015,145000,9800,DIESEL,MANUELLE,Bleu,Montreal,PARTICULIER,2026-08-05,Moteur TDI très économique sur l'autoroute.
-12,Audi,A4,2018,76000,23900,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-07,Système Quattro, intérieur en cuir impeccable.
-13,Mazda,3,2020,48000,19200,ESSENCE,AUTOMATIQUE,Rouge,Laval,CONCESSIONNAIRE,2026-09-10,Technologie SkyActiv, look très dynamique.
-14,Kia,Forte,2019,59000,15400,ESSENCE,AUTOMATIQUE,Blanc,Gatineau,PARTICULIER,2026-08-22,Garantie de base encore valide, très propre.
+12,Audi,A4,2018,76000,23900,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-07,"Système Quattro, intérieur en cuir impeccable."
+13,Mazda,3,2020,48000,19200,ESSENCE,AUTOMATIQUE,Rouge,Laval,CONCESSIONNAIRE,2026-09-10,"Technologie SkyActiv, look très dynamique."
+14,Kia,Forte,2019,59000,15400,ESSENCE,AUTOMATIQUE,Blanc,Gatineau,PARTICULIER,2026-08-22,"Garantie de base encore valide, très propre."
 15,Chevrolet,Bolt,2020,42000,21000,ELECTRIQUE,AUTOMATIQUE,Bleu,Sherbrooke,CONCESSIONNAIRE,2026-09-01,Autonomie de 417 km. Parfait état.
-16,Subaru,Impreza,2016,118000,12500,ESSENCE,MANUELLE,Gris,Trois-Rivieres,PARTICULIER,2026-08-14,Traction intégrale légendaire, idéale pour l'hiver.
-17,Jeep,Grand Cherokee,2018,92000,26800,ESSENCE,AUTOMATIQUE,Noir,Montreal,CONCESSIONNAIRE,2026-09-09,Capacité de remorquage excellente, tout équipé.
-18,Toyota,Camry,2015,160000,11900,HYBRIDE,AUTOMATIQUE,Argent,Quebec,PARTICULIER,2026-07-30,Fiabilité à toute épreuve, freins récents.
-19,Honda,Accord,2017,94000,17300,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-03,Berline confortable et spacieuse, bien équipée.
-20,Ford,F-150,2018,110000,29500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-11,Moteur EcoBoost, prêt pour le travail.
+16,Subaru,Impreza,2016,118000,12500,ESSENCE,MANUELLE,Gris,Trois-Rivieres,PARTICULIER,2026-08-14,"Traction intégrale légendaire, idéale pour l'hiver."
+17,Jeep,Grand Cherokee,2018,92000,26800,ESSENCE,AUTOMATIQUE,Noir,Montreal,CONCESSIONNAIRE,2026-09-09,"Capacité de remorquage excellente, tout équipé."
+18,Toyota,Camry,2015,160000,11900,HYBRIDE,AUTOMATIQUE,Argent,Quebec,PARTICULIER,2026-07-30,"Fiabilité à toute épreuve, freins récents."
+19,Honda,Accord,2017,94000,17300,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-03,"Berline confortable et spacieuse, bien équipée."
+20,Ford,F-150,2018,110000,29500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-11,"Moteur EcoBoost, prêt pour le travail."
+21,Toyota,Corolla,2019,75000,17800,ESSENCE,AUTOMATIQUE,Bleu,Montreal,CONCESSIONNAIRE,2026-09-01,Parfait etat.
+22,Honda,Civic,2016,120000,12500,ESSENCE,MANUELLE,Rouge,Quebec,PARTICULIER,2026-08-15,Freins neufs.
+23,Tesla,Model 3,2020,55000,34000,ELECTRIQUE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-10,Garantie active.
+24,Ford,Escape,2018,88000,15900,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-02,Tres propre.
+25,BMW,Série 3,2017,95000,21000,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,PARTICULIER,2026-08-20,Pneus inclus.
+26,Toyota,RAV4,2020,45000,26500,HYBRIDE,AUTOMATIQUE,Argent,Longueuil,CONCESSIONNAIRE,2026-09-05,Un seul proprio.
+27,Honda,CR-V,2019,62000,23400,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,CONCESSIONNAIRE,2026-09-04,Toit ouvrant.
+28,Hyundai,Elantra,2016,110000,9500,ESSENCE,MANUELLE,Gris,Montreal,PARTICULIER,2026-08-11,Economique.
+29,Tesla,Model Y,2021,38000,41900,ELECTRIQUE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-12,Superbe etat.
+30,Nissan,Rogue,2018,82000,14900,ESSENCE,AUTOMATIQUE,Blanc,Laval,PARTICULIER,2026-08-28,Spacieux.
+31,Volkswagen,Golf,2016,125000,10500,DIESEL,MANUELLE,Noir,Gatineau,PARTICULIER,2026-08-05,Moteur TDI.
+32,Audi,A4,2019,58000,26900,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,CONCESSIONNAIRE,2026-09-07,Interieur cuir.
+33,Mazda,3,2021,32000,21500,ESSENCE,AUTOMATIQUE,Bleu,Longueuil,CONCESSIONNAIRE,2026-09-10,Look dynamique.
+34,Kia,Forte,2020,44000,16900,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,PARTICULIER,2026-08-22,Bien entretenu.
+35,Chevrolet,Bolt,2021,29000,23500,ELECTRIQUE,AUTOMATIQUE,Rouge,Montreal,CONCESSIONNAIRE,2026-09-01,Excellente autonomie.
+36,Subaru,Impreza,2017,98000,13900,ESSENCE,MANUELLE,Blanc,Quebec,PARTICULIER,2026-08-14,Traction integrale.
+37,Jeep,Grand Cherokee,2019,74000,29500,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-09,Tout equipe.
+38,Toyota,Camry,2016,130000,13400,HYBRIDE,AUTOMATIQUE,Noir,Gatineau,PARTICULIER,2026-07-30,Tres fiable.
+39,Honda,Accord,2018,71000,19800,ESSENCE,AUTOMATIQUE,Bleu,Sherbrooke,CONCESSIONNAIRE,2026-09-03,Berline confortable.
+40,Ford,F-150,2019,85000,32000,ESSENCE,AUTOMATIQUE,Blanc,Longueuil,CONCESSIONNAIRE,2026-09-11,Moteur EcoBoost.
+41,Toyota,Corolla,2020,52000,19500,ESSENCE,AUTOMATIQUE,Gris,Montreal,CONCESSIONNAIRE,2026-09-01,"Condition impeccable, un seul propriétaire."
+42,Honda,Civic,2017,98000,14200,ESSENCE,AUTOMATIQUE,Noir,Quebec,PARTICULIER,2026-08-16,"Fiable, traitement antirouille fait."
+43,Tesla,Model 3,2022,22000,39900,ELECTRIQUE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-11,"Autonomie maximale, mise à jour incluse."
+44,Ford,Escape,2019,71000,17400,ESSENCE,AUTOMATIQUE,Argent,Gatineau,CONCESSIONNAIRE,2026-09-03,"VUS polyvalent, idéal pour l'hiver."
+45,BMW,Série 3,2018,81000,24500,ESSENCE,AUTOMATIQUE,Bleu,Sherbrooke,PARTICULIER,2026-08-21,Historique d'entretien complet chez le concessionnaire.
+46,Toyota,RAV4,2021,31000,29800,HYBRIDE,AUTOMATIQUE,Rouge,Longueuil,CONCESSIONNAIRE,2026-09-06,"Excellente économie d'essence, traction intégrale."
+47,Honda,CR-V,2020,49000,25900,ESSENCE,AUTOMATIQUE,Gris,Trois-Rivieres,CONCESSIONNAIRE,2026-09-05,Caméra de recul et angles morts.
+48,Hyundai,Elantra,2017,92000,11400,ESSENCE,AUTOMATIQUE,Blanc,Montreal,PARTICULIER,2026-08-12,"Parfait pour la ville, très économique."
+49,Tesla,Model Y,2023,15000,46900,ELECTRIQUE,AUTOMATIQUE,Gris,Quebec,CONCESSIONNAIRE,2026-09-13,"Comme neuf, tapis d'origine inclus."
+50,Nissan,Rogue,2019,69000,16800,ESSENCE,AUTOMATIQUE,Noir,Laval,PARTICULIER,2026-08-29,"Intérieur spacieux, sièges chauffants."
+51,Volkswagen,Golf,2017,112000,12300,DIESEL,MANUELLE,Bleu,Gatineau,PARTICULIER,2026-08-06,"Version Comfortline, très propre."
+52,Audi,A4,2020,41000,31200,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,CONCESSIONNAIRE,2026-09-08,"Cockpit virtuel, traction Quattro."
+53,Mazda,3,2022,19000,23900,ESSENCE,AUTOMATIQUE,Gris,Longueuil,CONCESSIONNAIRE,2026-09-11,"Édition 100e anniversaire, toutes options."
+54,Kia,Forte,2021,32000,18500,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,PARTICULIER,2026-08-23,"Basse consommation, connectivité Apple CarPlay."
+55,Chevrolet,Bolt,2022,18000,26800,ELECTRIQUE,AUTOMATIQUE,Gris,Montreal,CONCESSIONNAIRE,2026-09-02,Batterie neuve changée sous garantie.
+56,Subaru,Impreza,2018,84000,15400,ESSENCE,AUTOMATIQUE,Bleu,Quebec,PARTICULIER,2026-08-15,Idéal pour affronter les tempêtes de neige.
+57,Jeep,Grand Cherokee,2020,59000,32400,ESSENCE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-10,"Toit panoramique, ensemble remorquage."
+58,Toyota,Camry,2017,105000,15900,HYBRIDE,AUTOMATIQUE,Argent,Gatineau,PARTICULIER,2026-07-31,"Confort de roulement supérieur, aucun frais à prévoir."
+59,Honda,Accord,2019,53000,22700,ESSENCE,AUTOMATIQUE,Noir,Sherbrooke,CONCESSIONNAIRE,2026-09-04,Moteur turbo puissant et habitacle luxueux.
+60,Ford,F-150,2020,68000,36500,ESSENCE,AUTOMATIQUE,Gris,Longueuil,CONCESSIONNAIRE,2026-09-12,"SuperCrew 4x4, boîte de 5.5 pieds."
+61,Toyota,Corolla,2018,89000,15800,ESSENCE,MANUELLE,Noir,Trois-Rivieres,PARTICULIER,2026-08-10,"Version CE robuste, entretien rigoureux."
+62,Honda,Civic,2015,134000,10900,ESSENCE,MANUELLE,Gris,Montreal,PARTICULIER,2026-08-01,"Parfait premier véhicule, mécanique simple."
+63,Tesla,Model 3,2021,42000,35500,ELECTRIQUE,AUTOMATIQUE,Rouge,Quebec,CONCESSIONNAIRE,2026-09-01,"Pompe à chaleur incluse, vitres teintées."
+64,Ford,Escape,2017,102000,12900,ESSENCE,AUTOMATIQUE,Blanc,Laval,PARTICULIER,2026-08-18,Quelques égratignures mineures mais roule très bien.
+65,BMW,Série 3,2016,115000,16500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-01,"Roues de 18 pouces, phares DEL."
+66,Toyota,RAV4,2019,78000,23500,ESSENCE,AUTOMATIQUE,Bleu,Sherbrooke,PARTICULIER,2026-08-25,"Modèle AWD XLE, freins neufs aux 4 roues."
+67,Honda,CR-V,2018,91000,20900,ESSENCE,AUTOMATIQUE,Argent,Longueuil,CONCESSIONNAIRE,2026-09-02,Démarreur à distance d'origine inclus.
+68,Hyundai,Elantra,2015,142000,7900,ESSENCE,MANUELLE,Noir,Trois-Rivieres,PARTICULIER,2026-07-20,"Petit prix pour vente rapide, roule tous les jours."
+69,Tesla,Model Y,2022,29000,42500,ELECTRIQUE,AUTOMATIQUE,Bleu,Montreal,CONCESSIONNAIRE,2026-09-08,"Intérieur blanc ultra propre, autopilot de base."
+70,Nissan,Rogue,2017,118000,12500,ESSENCE,AUTOMATIQUE,Gris,Quebec,CONCESSIONNAIRE,2026-09-01,"Rapports Carfax disponibles, pas d'accident."
+71,Volkswagen,Golf,2015,152000,8900,ESSENCE,MANUELLE,Rouge,Laval,PARTICULIER,2026-07-15,"Édition Trendline, suspension ferme et précise."
+72,Audi,A4,2018,83000,22500,ESSENCE,AUTOMATIQUE,Gris,Gatineau,PARTICULIER,2026-08-22,"Entretien des 80k km fait, cuir noir."
+73,Mazda,3,2020,51000,18700,ESSENCE,MANUELLE,Noir,Sherbrooke,CONCESSIONNAIRE,2026-09-03,"Boîte manuelle précise, plaisir de conduire garanti."
+74,Kia,Forte,2019,65000,14800,ESSENCE,AUTOMATIQUE,Bleu,Longueuil,CONCESSIONNAIRE,2026-09-05,"Très propre, aucun historique d'accident."
+75,Chevrolet,Bolt,2020,51000,19900,ELECTRIQUE,AUTOMATIQUE,Blanc,Trois-Rivieres,PARTICULIER,2026-08-14,Idéal pour les trajets quotidiens sans essence.
+76,Subaru,Impreza,2016,124000,11800,ESSENCE,MANUELLE,Noir,Montreal,CONCESSIONNAIRE,2026-09-01,"Châssis solide, très sécuritaire sous la pluie."
+77,Jeep,Grand Cherokee,2018,99000,24900,ESSENCE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2026-08-19,Intérieur en cuir chauffant et ventilé.
+78,Toyota,Camry,2015,168000,11500,ESSENCE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-04,"Moteur 4 cylindres indestructible, très confortable."
+79,Honda,Accord,2017,99000,16500,ESSENCE,AUTOMATIQUE,Argent,Gatineau,PARTICULIER,2026-08-05,"Grand coffre, sièges arrière rabattables."
+80,Ford,F-150,2018,118000,27900,ESSENCE,AUTOMATIQUE,Noir,Sherbrooke,PARTICULIER,2026-08-12,Doublure de caisse et marchepieds inclus.
+81,Toyota,Corolla,2021,28000,21400,ESSENCE,AUTOMATIQUE,Blanc,Longueuil,CONCESSIONNAIRE,2026-09-09,Garantie prolongée transférable incluse.
+82,Honda,Civic,2018,72000,16900,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,CONCESSIONNAIRE,2026-09-07,Version EX avec caméra d'angle mort à droite.
+83,Tesla,Model 3,2023,12000,42500,ELECTRIQUE,AUTOMATIQUE,Noir,Montreal,PARTICULIER,2026-08-30,Vente pour cause de déménagement outre-mer.
+84,Ford,Escape,2020,48000,20900,ESSENCE,AUTOMATIQUE,Gris,Quebec,CONCESSIONNAIRE,2026-09-02,"Nouveau design, écran tactile Sync 3."
+85,BMW,Série 3,2019,49000,29900,ESSENCE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-06,"Ensemble de luxe M Sport, bas kilométrage."
+86,Toyota,RAV4,2022,21000,32500,HYBRIDE,AUTOMATIQUE,Noir,Gatineau,PARTICULIER,2026-08-27,"Couleur noir d'attitude, tapis d'hiver weathertech."
+87,Honda,CR-V,2021,34000,27800,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,CONCESSIONNAIRE,2026-09-10,"Intérieur en tissu beige, impeccable."
+88,Hyundai,Elantra,2018,79000,13200,ESSENCE,AUTOMATIQUE,Gris,Longueuil,PARTICULIER,2026-08-11,"Changement d'huile récent, prêt à rouler."
+89,Tesla,Model Y,2023,19000,47900,ELECTRIQUE,AUTOMATIQUE,Blanc,Trois-Rivieres,CONCESSIONNAIRE,2026-09-12,Version autonomie prolongée avec roues 20 pouces.
+90,Nissan,Rogue,2020,46000,20500,ESSENCE,AUTOMATIQUE,Argent,Montreal,CONCESSIONNAIRE,2026-09-04,Système de conduite assistée ProPilot.
+91,Volkswagen,Golf,2016,131000,10900,ESSENCE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2026-08-03,Boîte automatique DSG très rapide.
+92,Audi,A4,2021,29000,35800,ESSENCE,AUTOMATIQUE,Noir,Laval,CONCESSIONNAIRE,2026-09-07,Système audio premium Bang & Olufsen.
+93,Mazda,3,2021,39000,20800,ESSENCE,AUTOMATIQUE,Rouge,Gatineau,PARTICULIER,2026-08-19,Peinture rouge cristal vibrant signature Mazda.
+94,Kia,Forte,2020,52000,15900,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,CONCESSIONNAIRE,2026-09-01,Volant et sièges chauffants de série.
+95,Chevrolet,Bolt,2021,33000,22400,ELECTRIQUE,AUTOMATIQUE,Bleu,Longueuil,PARTICULIER,2026-08-24,Livré avec le chargeur de niveau 2 pour la maison.
+96,Subaru,Impreza,2017,105000,12900,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,CONCESSIONNAIRE,2026-09-03,Système d'aide à la conduite EyeSight inclus.
+97,Jeep,Grand Cherokee,2020,62000,31900,ESSENCE,AUTOMATIQUE,Noir,Montreal,PARTICULIER,2026-08-16,"Version Limited, aucun accroc sur la carrosserie."
+98,Toyota,Camry,2016,118000,14500,ESSENCE,AUTOMATIQUE,Bleu,Quebec,CONCESSIONNAIRE,2026-09-05,"Modèle LE très spacieux, historique limpide."
+99,Honda,Accord,2018,68000,20500,ESSENCE,AUTOMATIQUE,Gris,Laval,PARTICULIER,2026-08-22,"Très faible usure, toujours dormi au garage."
+100,Ford,F-150,2020,54000,38900,ESSENCE,AUTOMATIQUE,Rouge,Gatineau,CONCESSIONNAIRE,2026-09-11,"Moteur V8 de 5.0L puissant, idéal pour remorquer."
+101,Toyota,Corolla,2019,67000,18100,ESSENCE,AUTOMATIQUE,Argent,Sherbrooke,CONCESSIONNAIRE,2026-09-01,"Version LE, un seul propriétaire méticuleux."
+102,Honda,Civic,2016,112000,12900,ESSENCE,AUTOMATIQUE,Blanc,Longueuil,PARTICULIER,2026-08-15,"Économique, disques et plaquettes récents."
+103,Tesla,Model 3,2020,58000,32900,ELECTRIQUE,AUTOMATIQUE,Noir,Trois-Rivieres,CONCESSIONNAIRE,2026-09-09,"Autonomie standard plus, superbe état."
+104,Ford,Escape,2018,82000,15100,ESSENCE,AUTOMATIQUE,Bleu,Montreal,PARTICULIER,2026-08-26,"Système 4x4 intelligent, bien chaussé pour l'hiver."
+105,BMW,Série 3,2017,91000,19900,ESSENCE,AUTOMATIQUE,Gris,Quebec,CONCESSIONNAIRE,2026-09-04,"Modèle 330i xDrive, intérieur en cuir rouge luxe."
+106,Toyota,RAV4,2020,51000,25900,HYBRIDE,AUTOMATIQUE,Blanc,Laval,PARTICULIER,2026-08-13,Version XLE avec toit ouvrant électrique.
+107,Honda,CR-V,2019,73000,22400,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-03,Entretien régulier fait à l'agence.
+108,Hyundai,Elantra,2016,104000,10200,ESSENCE,AUTOMATIQUE,Bleu,Sherbrooke,PARTICULIER,2026-07-29,"Berline compacte fiable, démarreur à distance."
+109,Tesla,Model Y,2021,43000,39900,ELECTRIQUE,AUTOMATIQUE,Gris,Longueuil,CONCESSIONNAIRE,2026-09-10,"Version Performance, accélération foudroyante."
+110,Nissan,Rogue,2018,89000,14300,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,PARTICULIER,2026-08-20,Grand coffre avec système de rangement modulable.
+111,Volkswagen,Golf,2015,138000,9400,DIESEL,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-01,"Rare boîte DSG sur moteur diesel, un charme."
+112,Audi,A4,2019,64000,25400,ESSENCE,AUTOMATIQUE,Bleu,Quebec,PARTICULIER,2026-08-14,"Sièges sport chauffants, phares au xénon."
+113,Mazda,3,2020,44000,19900,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-08,Système i-Activesense de sécurité active.
+114,Kia,Forte,2019,57000,14900,ESSENCE,AUTOMATIQUE,Rouge,Gatineau,PARTICULIER,2026-08-11,"Aucune rouille, toujours lavée régulièrement."
+115,Chevrolet,Bolt,2020,46000,20400,ELECTRIQUE,AUTOMATIQUE,Noir,Sherbrooke,CONCESSIONNAIRE,2026-09-02,"Parfait état de la batterie, rapport fourni."
+116,Subaru,Impreza,2016,111000,12100,ESSENCE,AUTOMATIQUE,Gris,Longueuil,PARTICULIER,2026-08-02,Excellente tenue de route dans les courbes.
+117,Jeep,Grand Cherokee,2019,79000,27500,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,CONCESSIONNAIRE,2026-09-05,Système de navigation GPS et écran de 8.4 pouces.
+118,Toyota,Camry,2015,145000,12400,HYBRIDE,AUTOMATIQUE,Noir,Montreal,PARTICULIER,2026-07-25,"Ancienne voiture de navette, autoroute seulement."
+119,Honda,Accord,2017,86000,17900,ESSENCE,AUTOMATIQUE,Blanc,Quebec,CONCESSIONNAIRE,2026-09-01,"Modèle Touring haut de gamme, suspension adaptative."
+120,Ford,F-150,2019,89000,31500,ESSENCE,AUTOMATIQUE,Noir,Laval,PARTICULIER,2026-08-17,"Version XTR avec accents chromés, miroirs de remorquage."
+121,Toyota,Corolla,2022,15000,23900,ESSENCE,AUTOMATIQUE,Bleu,Gatineau,CONCESSIONNAIRE,2026-09-12,Modèle récent sous garantie complète du manufacturier.
+122,Honda,Civic,2019,51000,18900,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,CONCESSIONNAIRE,2026-09-09,Modèle à hayon (Hatchback) très pratique.
+123,Tesla,Model 3,2022,26000,38500,ELECTRIQUE,AUTOMATIQUE,Rouge,Longueuil,PARTICULIER,2026-08-28,"Vitres teintées céramiques, look d'enfer."
+124,Ford,Escape,2021,34000,22800,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,CONCESSIONNAIRE,2026-09-04,Version SEL avec sièges en simili-cuir ActiveX.
+125,BMW,Série 3,2020,38000,34500,ESSENCE,AUTOMATIQUE,Argent,Montreal,CONCESSIONNAIRE,2026-09-07,"Génération G20 moderne, tableau de bord numérique."
+126,Toyota,RAV4,2021,29000,28900,ESSENCE,AUTOMATIQUE,Blanc,Quebec,PARTICULIER,2026-08-19,Version Trail avec look baroudeur et capacité accrue.
+127,Honda,CR-V,2020,43000,26400,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-02,Version Sport avec jantes noires de 19 pouces.
+128,Hyundai,Elantra,2019,58000,14900,ESSENCE,AUTOMATIQUE,Noir,Gatineau,PARTICULIER,2026-08-08,Style redessiné avec phares triangulaires agressifs.
+129,Tesla,Model Y,2022,23000,44900,ELECTRIQUE,AUTOMATIQUE,Blanc,Sherbrooke,CONCESSIONNAIRE,2026-09-11,"Modèle 7 places, rare sur le marché de l'occasion."
+130,Nissan,Rogue,2021,27000,24800,ESSENCE,AUTOMATIQUE,Bleu,Longueuil,CONCESSIONNAIRE,2026-09-05,"Nouveau modèle entièrement repensé, très technologique."
+131,Volkswagen,Golf,2017,94000,14200,ESSENCE,MANUELLE,Gris,Trois-Rivieres,PARTICULIER,2026-08-14,"Version TSI turbo, vive et amusante à conduire."
+132,Audi,A4,2020,48000,29800,ESSENCE,AUTOMATIQUE,Bleu,Montreal,PARTICULIER,2026-08-22,Lumières d'ambiance intérieures de plusieurs couleurs.
+133,Mazda,3,2022,12000,25400,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-10,"Traction intégrale i-Activ AWD, excellente en hiver."
+134,Kia,Forte,2021,28000,19200,ESSENCE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-03,Version EX Premium avec phares à DEL de nuit.
+135,Chevrolet,Bolt,2022,21000,25900,ELECTRIQUE,AUTOMATIQUE,Rouge,Gatineau,PARTICULIER,2026-08-16,Modèle Bolt EUV légèrement plus spacieux.
+136,Subaru,Impreza,2019,55000,17900,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,CONCESSIONNAIRE,2026-09-01,Berline compacte sécuritaire avec EyeSight v3.
+137,Jeep,Grand Cherokee,2021,41000,36900,ESSENCE,AUTOMATIQUE,Argent,Longueuil,PARTICULIER,2026-08-30,Version Overland avec suspension pneumatique ajustable.
+138,Toyota,Camry,2018,82000,19400,ESSENCE,AUTOMATIQUE,Blanc,Trois-Rivieres,CONCESSIONNAIRE,2026-09-06,"Nouveau design agressif, châssis TNGA rigide."
+139,Honda,Accord,2020,49000,24800,ESSENCE,AUTOMATIQUE,Bleu,Montreal,CONCESSIONNAIRE,2026-09-02,Moteur 2.0T sport rapide avec boîte 10 vitesses.
+140,Ford,F-150,2021,39000,43500,HYBRIDE,AUTOMATIQUE,Noir,Quebec,PARTICULIER,2026-08-25,Moteur PowerBoost hybride avec génératrice Pro Power.
+141,Toyota,Corolla,2017,105000,14500,ESSENCE,AUTOMATIQUE,Rouge,Laval,PARTICULIER,2026-07-28,Entretien fait régulièrement à chaque 8 000 km.
+142,Honda,Civic,2015,148000,9900,ESSENCE,AUTOMATIQUE,Gris,Gatineau,CONCESSIONNAIRE,2026-09-01,Modèle d'entrée de fer solide et économique.
+143,Tesla,Model 3,2019,79000,26500,ELECTRIQUE,AUTOMATIQUE,Blanc,Sherbrooke,PARTICULIER,2026-08-11,"Autonomie toujours excellente, batterie bien gérée."
+144,Ford,Escape,2016,124000,9800,ESSENCE,AUTOMATIQUE,Noir,Longueuil,PARTICULIER,2026-08-04,Prix abordable pour un VUS de tous les jours.
+145,BMW,Série 3,2015,138000,12900,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,CONCESSIONNAIRE,2026-09-01,"Modèle 328i xDrive bien équipé, cuir beige."
+146,Toyota,RAV4,2018,96000,19500,ESSENCE,AUTOMATIQUE,Argent,Montreal,PARTICULIER,2026-08-14,Dernière année de cette génération ultra fiable.
+147,Honda,CR-V,2017,108000,17400,ESSENCE,AUTOMATIQUE,Blanc,Quebec,CONCESSIONNAIRE,2026-09-04,"VUS compact confortable, beaucoup d'espace à l'arrière."
+148,Hyundai,Elantra,2015,155000,6800,ESSENCE,AUTOMATIQUE,Gris,Laval,PARTICULIER,2026-07-10,"Vente telle quelle, roule à la perfection."
+149,Tesla,Model Y,2020,62000,36900,ELECTRIQUE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-09,"Première année de production du Model Y, tout équipé."
+150,Nissan,Rogue,2016,129000,10500,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,PARTICULIER,2026-07-22,"Climatisation glaciale, tapis protecteurs inclus."
+151,Volkswagen,Golf,2014,165000,7400,ESSENCE,MANUELLE,Bleu,Longueuil,CONCESSIONNAIRE,2026-09-01,"Conduite typique allemande, mécanique révisée."
+152,Audi,A4,2017,99000,18900,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,PARTICULIER,2026-08-12,Modèle Premium Plus avec phares de jour de style.
+153,Mazda,3,2019,68000,17200,ESSENCE,AUTOMATIQUE,Rouge,Montreal,CONCESSIONNAIRE,2026-09-03,"Intérieur très silencieux, design primé."
+154,Kia,Forte,2018,82000,12400,ESSENCE,AUTOMATIQUE,Blanc,Quebec,PARTICULIER,2026-08-09,"Voiture honnête et sans tracas, freins récents."
+155,Chevrolet,Bolt,2019,67000,17900,ELECTRIQUE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-02,"Rappel de batterie complété, autonomie réinitialisée."
+156,Subaru,Impreza,2015,142000,9500,ESSENCE,MANUELLE,Noir,Gatineau,PARTICULIER,2026-07-18,Parfait pour aller skier le week-end sans encombre.
+157,Jeep,Grand Cherokee,2017,112000,21500,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,PARTICULIER,2026-08-05,Système 4x4 Quadra-Trac très performant en boue.
+158,Toyota,Camry,2014,185000,9800,ESSENCE,AUTOMATIQUE,Argent,Longueuil,CONCESSIONNAIRE,2026-09-01,"Ancien véhicule de grand-parent, très bien préservé."
+159,Honda,Accord,2016,114000,14900,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,PARTICULIER,2026-08-01,Modèle EX-L avec système d'affichage LaneWatch.
+160,Ford,F-150,2017,135000,23400,ESSENCE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-05,"Panneaux en aluminium, aucune rouille sur le corps."
+161,Toyota,Corolla,2020,48000,20100,HYBRIDE,AUTOMATIQUE,Blanc,Quebec,CONCESSIONNAIRE,2026-09-01,"Consommation dérisoire de 4.5L/100km, très recherchée."
+162,Honda,Civic,2020,39000,19500,ESSENCE,AUTOMATIQUE,Noir,Laval,PARTICULIER,2026-08-27,Modèle Sport avec jantes noires et échappement central.
+163,Tesla,Model 3,2021,34000,36900,ELECTRIQUE,AUTOMATIQUE,Gris,Gatineau,CONCESSIONNAIRE,2026-09-11,Version avec volant chauffant et coffre électrique.
+164,Ford,Escape,2020,53000,19900,ESSENCE,AUTOMATIQUE,Bleu,Sherbrooke,PARTICULIER,2026-08-15,"Facile à garer, tableau de bord intuitif."
+165,BMW,Série 3,2019,56000,28500,ESSENCE,AUTOMATIQUE,Gris,Longueuil,CONCESSIONNAIRE,2026-09-04,"Modèle 330i xDrive, toit ouvrant panoramique."
+166,Toyota,RAV4,2020,49000,26900,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,PARTICULIER,2026-08-20,"Couleur noire, carrosserie cirée deux fois par an."
+167,Honda,CR-V,2019,65000,22900,ESSENCE,AUTOMATIQUE,Argent,Montreal,CONCESSIONNAIRE,2026-09-02,"Historique complet sans aucune surprise, à voir."
+168,Hyundai,Elantra,2018,82000,13400,ESSENCE,AUTOMATIQUE,Rouge,Quebec,PARTICULIER,2026-08-07,Très économique à l'assurance pour jeune conducteur.
+169,Tesla,Model Y,2022,25000,43900,ELECTRIQUE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-12,Modèle Long Range avec jantes de 19 pouces d'origine.
+170,Nissan,Rogue,2019,72000,16500,ESSENCE,AUTOMATIQUE,Gris,Gatineau,CONCESSIONNAIRE,2026-09-03,Livré avec deux ensembles de pneus presque neufs.
+171,Volkswagen,Golf,2016,118000,11900,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,PARTICULIER,2026-08-11,"Version 5 portes à hayon, espace de chargement surprenant."
+172,Audi,A4,2019,59000,26500,ESSENCE,AUTOMATIQUE,Noir,Longueuil,CONCESSIONNAIRE,2026-09-06,"Version Progressiv bien équilibrée, cuir soigné."
+173,Mazda,3,2021,28000,22200,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,PARTICULIER,2026-08-23,Technologie de désactivation des cylindres pour économiser.
+174,Kia,Forte,2020,41000,16700,ESSENCE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-01,Garantie d'usine transférable de 5 ans / 100 000 km.
+175,Chevrolet,Bolt,2021,26000,24200,ELECTRIQUE,AUTOMATIQUE,Noir,Quebec,PARTICULIER,2026-08-17,Idéal pour éliminer totalement la facture d'essence.
+176,Subaru,Impreza,2018,76000,15900,ESSENCE,AUTOMATIQUE,Rouge,Laval,CONCESSIONNAIRE,2026-09-04,Traction intégrale permanente symétrique très réputée.
+177,Jeep,Grand Cherokee,2019,71000,28900,ESSENCE,AUTOMATIQUE,Gris,Gatineau,PARTICULIER,2026-08-13,Habitacle de luxe silencieux sur la grande route.
+178,Toyota,Camry,2016,112000,14900,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,CONCESSIONNAIRE,2026-09-05,Idéal pour de longues distances en grand confort.
+179,Honda,Accord,2018,61000,21400,ESSENCE,AUTOMATIQUE,Argent,Longueuil,PARTICULIER,2026-08-18,"Sièges en cuir ventilés à l'avant, pas de tache."
+180,Ford,F-150,2019,79000,33900,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,CONCESSIONNAIRE,2026-09-10,Version Lariat tout cuir avec console centrale complète.
+181,Toyota,Corolla,2016,115000,12900,ESSENCE,AUTOMATIQUE,Noir,Montreal,PARTICULIER,2026-07-20,"Fiable au quotidien, huile synthétique toujours utilisée."
+182,Honda,Civic,2017,89000,15400,ESSENCE,AUTOMATIQUE,Bleu,Quebec,CONCESSIONNAIRE,2026-09-02,Version LX avec système de freinage automatique d'urgence.
+183,Tesla,Model 3,2020,61000,31500,ELECTRIQUE,AUTOMATIQUE,Blanc,Laval,PARTICULIER,2026-08-09,Recharge effectuée presque uniquement à la maison (L2).
+184,Ford,Escape,2018,94000,13800,ESSENCE,AUTOMATIQUE,Gris,Gatineau,CONCESSIONNAIRE,2026-09-01,Moteur 1.5L EcoBoost nerveux et économe.
+185,BMW,Série 3,2016,122000,15900,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,PARTICULIER,2026-07-31,"Toit ouvrant, volant sport en cuir, pneus hiver inclus."
+186,Toyota,RAV4,2019,82000,22900,ESSENCE,AUTOMATIQUE,Argent,Longueuil,CONCESSIONNAIRE,2026-09-03,"Entretien fait à jour, freins et disques neufs."
+187,Honda,CR-V,2018,96000,19900,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,PARTICULIER,2026-08-14,"Version LX bien soignée, tapis d'origine en tissu."
+188,Hyundai,Elantra,2016,119000,8900,ESSENCE,MANUELLE,Gris,Montreal,PARTICULIER,2026-07-15,"Embrayage en bon état, économique pour le travail."
+189,Tesla,Model Y,2021,46000,38900,ELECTRIQUE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-08,"Version à propulsion arrière, excellente autonomie réelle."
+190,Nissan,Rogue,2018,95000,13900,ESSENCE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-01,Grand hayon arrière facilitant le chargement.
+191,Volkswagen,Golf,2015,142000,9200,ESSENCE,MANUELLE,Bleu,Gatineau,PARTICULIER,2026-07-12,"Amortisseurs neufs, bonne conduite dynamique."
+192,Audi,A4,2018,88000,21500,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,PARTICULIER,2026-08-02,"Historique Carfax propre, aucun dommage antérieur."
+193,Mazda,3,2020,55000,18200,ESSENCE,AUTOMATIQUE,Noir,Longueuil,CONCESSIONNAIRE,2026-09-05,Version GS avec volant chauffant et essuie-glaces auto.
+194,Kia,Forte,2019,69000,14200,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,CONCESSIONNAIRE,2026-09-01,Garantie du groupe motopropulseur toujours en vigueur.
+195,Chevrolet,Bolt,2020,53000,19200,ELECTRIQUE,AUTOMATIQUE,Blanc,Montreal,PARTICULIER,2026-07-28,Idéal comme deuxième véhicule de famille pour la ville.
+196,Subaru,Impreza,2016,129000,10900,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-02,"Système AWD infaillible, pare-brise neuf sans éclat."
+197,Jeep,Grand Cherokee,2018,104000,23900,ESSENCE,AUTOMATIQUE,Bleu,Laval,PARTICULIER,2026-08-04,Modèle Élevate avec jantes noires de 20 pouces de style.
+198,Toyota,Camry,2015,152000,11900,ESSENCE,AUTOMATIQUE,Gris,Gatineau,CONCESSIONNAIRE,2026-09-04,"Berline intermédiaire confortable, très grand coffre."
+199,Honda,Accord,2017,91000,16900,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,PARTICULIER,2026-08-01,Modèle avec phares DEL automatiques et caméra de recul.
+200,Ford,F-150,2018,124000,26500,ESSENCE,AUTOMATIQUE,Argent,Longueuil,CONCESSIONNAIRE,2026-09-09,Caisse protégée avec enduit pulvérisé ultra résistant.
+201,Toyota,Corolla,2021,34000,21900,ESSENCE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-01,Modèle SE avec phares de jour DEL et accents sport.
+202,Honda,Civic,2018,79000,16400,ESSENCE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2026-08-22,"Entretien des 80 000 km fait en avance, freins neufs."
+203,Tesla,Model 3,2022,18000,41500,ELECTRIQUE,AUTOMATIQUE,Noir,Laval,CONCESSIONNAIRE,2026-09-10,Intérieur en cuir noir minimaliste en parfait état.
+204,Ford,Escape,2019,65000,17900,ESSENCE,AUTOMATIQUE,Bleu,Gatineau,PARTICULIER,2026-08-14,"VUS compact agile, idéal pour le quotidien."
+205,BMW,Série 3,2018,74000,25900,ESSENCE,AUTOMATIQUE,Blanc,Sherbrooke,CONCESSIONNAIRE,2026-09-05,Version d'allure sport avec suspension dynamique.
+206,Toyota,RAV4,2021,26000,29900,HYBRIDE,AUTOMATIQUE,Argent,Longueuil,PARTICULIER,2026-08-19,Modèle très recherché pour son excellente valeur.
+207,Honda,CR-V,2020,41000,26800,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,CONCESSIONNAIRE,2026-09-02,Écran tactile compatible Android Auto et Apple CarPlay.
+208,Hyundai,Elantra,2018,72000,13900,ESSENCE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-01,"Zéro problème mécanique, dossiers d'entretien complets."
+209,Tesla,Model Y,2023,11000,49500,ELECTRIQUE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2026-08-30,Vente suite à l'obtention d'un véhicule de fonction.
+210,Nissan,Rogue,2020,42000,21400,ESSENCE,AUTOMATIQUE,Bleu,Laval,CONCESSIONNAIRE,2026-09-04,Régulateur de vitesse adaptatif intelligent inclus.
+211,Volkswagen,Golf,2017,89000,14900,ESSENCE,AUTOMATIQUE,Gris,Gatineau,PARTICULIER,2026-08-08,"Compacte nerveuse, tenue de route de premier ordre."
+212,Audi,A4,2020,44000,30900,ESSENCE,AUTOMATIQUE,Noir,Sherbrooke,CONCESSIONNAIRE,2026-09-07,Tableau de bord virtuel haute résolution d'Audi.
+213,Mazda,3,2022,14000,24800,ESSENCE,AUTOMATIQUE,Rouge,Longueuil,PARTICULIER,2026-08-25,"Très faible kilométrage, odeur de neuf encore présente."
+214,Kia,Forte,2021,24000,19500,ESSENCE,AUTOMATIQUE,Gris,Trois-Rivieres,CONCESSIONNAIRE,2026-09-03,Garantie globale transférable encore active.
+215,Chevrolet,Bolt,2022,15000,27400,ELECTRIQUE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-01,Modèle à jour avec sièges chauffants avant et arrière.
+216,Subaru,Impreza,2019,48000,18900,ESSENCE,AUTOMATIQUE,Noir,Quebec,PARTICULIER,2026-08-11,"Aucun accident, rapport de carrosserie impeccable."
+217,Jeep,Grand Cherokee,2020,53000,33900,ESSENCE,AUTOMATIQUE,Argent,Laval,CONCESSIONNAIRE,2026-09-08,Système d'entrée sans clé avec bouton de démarrage.
+218,Toyota,Camry,2018,76000,20500,ESSENCE,AUTOMATIQUE,Bleu,Gatineau,PARTICULIER,2026-08-05,"Conduite douce et silencieuse, aucun entretien à prévoir."
+219,Honda,Accord,2019,45000,23900,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,CONCESSIONNAIRE,2026-09-02,Modèle Sport avec palettes de changement au volant.
+220,Ford,F-150,2020,59000,37900,ESSENCE,AUTOMATIQUE,Noir,Longueuil,PARTICULIER,2026-08-28,Équipé d'un couvre-caisse rigide repliable de luxe.
+221,Toyota,Corolla,2017,92000,14900,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,CONCESSIONNAIRE,2026-09-01,Système d'avertissement de sortie de voie inclus.
+222,Honda,Civic,2016,118000,12400,ESSENCE,MANUELLE,Blanc,Montreal,PARTICULIER,2026-08-10,Idéal pour ceux qui préfèrent une boîte manuelle.
+223,Tesla,Model 3,2019,74000,27900,ELECTRIQUE,AUTOMATIQUE,Gris,Quebec,CONCESSIONNAIRE,2026-09-04,Ordinateur de conduite entièrement autonome (FSD Payé).
+224,Ford,Escape,2016,131000,9400,ESSENCE,AUTOMATIQUE,Argent,Laval,PARTICULIER,2026-07-20,Vendu avec des pneus d'été d'un seul été d'usure.
+225,BMW,Série 3,2015,142000,11900,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-01,"Prix ajusté pour vente rapide, intérieur cuir noir propre."
+226,Toyota,RAV4,2018,91000,20400,ESSENCE,AUTOMATIQUE,Bleu,Sherbrooke,PARTICULIER,2026-08-14,"Traction intégrale, idal pour affronter la neige."
+227,Honda,CR-V,2017,112000,16900,ESSENCE,AUTOMATIQUE,Blanc,Longueuil,CONCESSIONNAIRE,2026-09-02,Spacieux et fiable pour les voyages en famille.
+228,Hyundai,Elantra,2015,162000,6200,ESSENCE,MANUELLE,Gris,Trois-Rivieres,PARTICULIER,2026-07-05,Petite berline robuste à bas prix pour étudiant.
+229,Tesla,Model Y,2020,68000,35900,ELECTRIQUE,AUTOMATIQUE,Noir,Montreal,PARTICULIER,2026-08-01,Pompe à chaleur pour de meilleures performances en hiver.
+230,Nissan,Rogue,2016,134000,9900,ESSENCE,AUTOMATIQUE,Blanc,Quebec,CONCESSIONNAIRE,2026-09-01,Idéal pour les budgets serrés cherchant un VUS.
+231,Volkswagen,Golf,2014,172000,6900,ESSENCE,MANUELLE,Gris,Laval,PARTICULIER,2026-06-25,Entretien fait par un amateur passionné de mécanique.
+232,Audi,A4,2017,104000,17900,ESSENCE,AUTOMATIQUE,Bleu,Gatineau,CONCESSIONNAIRE,2026-09-03,"Traction Quattro, pneus d'été haute performance."
+233,Mazda,3,2019,73000,16500,ESSENCE,AUTOMATIQUE,Noir,Sherbrooke,PARTICULIER,2026-08-09,"Système d'infodivertissement mis à jour, très réactif."
+234,Kia,Forte,2018,89000,11900,ESSENCE,AUTOMATIQUE,Blanc,Longueuil,CONCESSIONNAIRE,2026-09-01,Voiture économique sans mauvaises surprises.
+235,Chevrolet,Bolt,2019,72000,16900,ELECTRIQUE,AUTOMATIQUE,Bleu,Trois-Rivieres,PARTICULIER,2026-07-22,Autonomie affichée de 380 km en été sur une charge.
+236,Subaru,Impreza,2015,149000,8900,ESSENCE,AUTOMATIQUE,Gris,Montreal,PARTICULIER,2026-07-11,"Traction intégrale, pare-brise intact, freins ok."
+237,Jeep,Grand Cherokee,2017,118000,20500,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-05,"Puissant moteur V6 Pentastar, très bien équipé."
+238,Toyota,Camry,2014,192000,8900,ESSENCE,AUTOMATIQUE,Argent,Laval,PARTICULIER,2026-06-30,Confortable pour faire de la route tous les jours.
+239,Honda,Accord,2016,121000,13900,ESSENCE,AUTOMATIQUE,Blanc,Gatineau,CONCESSIONNAIRE,2026-09-01,Modèle de luxe fiable avec toit ouvrant électrique.
+240,Ford,F-150,2017,142000,21900,ESSENCE,AUTOMATIQUE,Noir,Sherbrooke,PARTICULIER,2026-07-29,Boîte de 6.5 pieds avec protecteur de plastique.
+241,Toyota,Corolla,2022,22000,24500,ESSENCE,AUTOMATIQUE,Blanc,Longueuil,CONCESSIONNAIRE,2026-09-12,"Modèle sous garantie complète, état neuf."
+242,Honda,Civic,2019,58000,18500,ESSENCE,AUTOMATIQUE,Noir,Trois-Rivieres,PARTICULIER,2026-08-20,Version EX avec toit ouvrant et entrée sans clé.
+243,Tesla,Model 3,2021,39000,36500,ELECTRIQUE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-10,"Intérieur en cuir blanc, aucun frais d'entretien à prévoir."
+244,Ford,Escape,2020,58000,19400,ESSENCE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2026-08-14,VUS moderne avec tableau de bord épuré.
+245,BMW,Série 3,2020,42000,33900,ESSENCE,AUTOMATIQUE,Bleu,Laval,CONCESSIONNAIRE,2026-09-07,"Système d'affichage tête haute, cuir haut de gamme."
+246,Toyota,RAV4,2021,33000,28500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,CONCESSIONNAIRE,2026-09-04,"Modèle LE à traction intégrale, un seul propriétaire."
+247,Honda,CR-V,2020,47000,25800,ESSENCE,AUTOMATIQUE,Argent,Sherbrooke,PARTICULIER,2026-08-18,"Sièges chauffants, climatisation automatique bizone."
+248,Hyundai,Elantra,2019,62000,14500,ESSENCE,AUTOMATIQUE,Bleu,Longueuil,CONCESSIONNAIRE,2026-09-02,Régulateur de vitesse et caméra de recul de série.
+249,Tesla,Model Y,2022,27000,43900,ELECTRIQUE,AUTOMATIQUE,Gris,Trois-Rivieres,PARTICULIER,2026-08-26,Excellente autonomie pour de longs trajets sans stress.
+250,Nissan,Rogue,2021,31000,24200,ESSENCE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-05,Système de caméra à 360 degrés pour le stationnement.
+251,Volkswagen,Golf,2017,99000,13800,ESSENCE,MANUELLE,Noir,Quebec,PARTICULIER,2026-08-09,"Conduite sportive, système audio de qualité."
+252,Audi,A4,2020,52000,28900,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-06,"Phares adaptatifs à DEL, climatisation 3 zones."
+253,Mazda,3,2022,16000,24500,ESSENCE,AUTOMATIQUE,Blanc,Gatineau,PARTICULIER,2026-08-21,"Comme neuve, tapis moulés d'hiver inclus."
+254,Kia,Forte,2021,31000,18900,ESSENCE,AUTOMATIQUE,Noir,Sherbrooke,CONCESSIONNAIRE,2026-09-03,"Très propre, historique de service chez Kia."
+255,Chevrolet,Bolt,2022,24000,24900,ELECTRIQUE,AUTOMATIQUE,Bleu,Longueuil,PARTICULIER,2026-08-12,Modèle compact idéal pour recharger la nuit au tarif bas.
+256,Subaru,Impreza,2019,59000,17500,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,CONCESSIONNAIRE,2026-09-01,Sécurité absolue sous la pluie ou le verglas.
+257,Jeep,Grand Cherokee,2021,46000,35900,ESSENCE,AUTOMATIQUE,Noir,Montreal,PARTICULIER,2026-08-29,Version Altitude avec calandre et accents noirs.
+258,Toyota,Camry,2018,87000,18900,ESSENCE,AUTOMATIQUE,Gris,Quebec,CONCESSIONNAIRE,2026-09-05,"Grande berline d'une fiabilité légendaire, confortable."
+259,Honda,Accord,2020,52000,23900,ESSENCE,AUTOMATIQUE,Blanc,Laval,PARTICULIER,2026-08-16,"Intérieur spacieux, conduite dynamique, très propre."
+260,Ford,F-150,2021,43000,41900,ESSENCE,AUTOMATIQUE,Gris,Gatineau,CONCESSIONNAIRE,2026-09-11,Moteur EcoBoost de 3.5L avec ensemble remorquage max.
+261,Toyota,Corolla,2018,94000,15200,ESSENCE,AUTOMATIQUE,Argent,Sherbrooke,PARTICULIER,2026-08-04,"Modèle de base fiable, freins avant neufs."
+262,Honda,Civic,2015,141000,10500,ESSENCE,AUTOMATIQUE,Blanc,Longueuil,CONCESSIONNAIRE,2026-09-01,"Économique à l'usage, climatisation fonctionnelle."
+263,Tesla,Model 3,2021,46000,34900,ELECTRIQUE,AUTOMATIQUE,Noir,Trois-Rivieres,PARTICULIER,2026-08-10,"Intérieur en simili-cuir noir, batterie en parfait état."
+264,Ford,Escape,2017,109000,12300,ESSENCE,AUTOMATIQUE,Noir,Montreal,CONCESSIONNAIRE,2026-09-03,VUS d'occasion abordable pour tous les jours.
+265,BMW,Série 3,2016,119000,15900,ESSENCE,AUTOMATIQUE,Gris,Quebec,PARTICULIER,2027-07-28,"Toit ouvrant, volant sport, pneus d'hiver inclus."
+266,Toyota,RAV4,2019,85000,22500,ESSENCE,AUTOMATIQUE,Blanc,Laval,CONCESSIONNAIRE,2026-09-02,Traction intégrale intelligente pour nos hivers.
+267,Honda,CR-V,2018,99000,19500,ESSENCE,AUTOMATIQUE,Noir,Gatineau,PARTICULIER,2026-08-11,"Un seul propriétaire, bien entretenu."
+268,Hyundai,Elantra,2015,148000,7400,ESSENCE,MANUELLE,Bleu,Sherbrooke,CONCESSIONNAIRE,2026-09-01,Mécanique simple et entretien économique.
+269,Tesla,Model Y,2022,32000,41900,ELECTRIQUE,AUTOMATIQUE,Blanc,Longueuil,PARTICULIER,2026-08-20,Très grand coffre avec sous-coffre pratique.
+270,Nissan,Rogue,2017,122000,11900,ESSENCE,AUTOMATIQUE,Argent,Trois-Rivieres,CONCESSIONNAIRE,2026-09-01,Espace arrière spacieux pour les enfants.
+271,Volkswagen,Golf,2015,158000,8400,ESSENCE,MANUELLE,Rouge,Montreal,PARTICULIER,2026-07-15,"Style classique à hayon, tenue de route agréable."
+272,Audi,A4,2018,89000,20900,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-05,Système Quattro pour une sécurité optimale.
+273,Mazda,3,2020,58000,17900,ESSENCE,AUTOMATIQUE,Gris,Laval,PARTICULIER,2026-08-01,Design épuré et excellente isolation sonore.
+274,Kia,Forte,2019,72000,13900,ESSENCE,AUTOMATIQUE,Bleu,Gatineau,CONCESSIONNAIRE,2026-09-03,"Aucun historique d'accident, berline honnête."
+275,Chevrolet,Bolt,2020,56000,18900,ELECTRIQUE,AUTOMATIQUE,Blanc,Sherbrooke,PARTICULIER,2026-07-25,Idéal pour les petits trajets quotidiens sans essence.
+276,Subaru,Impreza,2016,134000,10500,ESSENCE,MANUELLE,Noir,Longueuil,CONCESSIONNAIRE,2026-09-01,Châssis rigide et conduite rassurante en hiver.
+277,Jeep,Grand Cherokee,2018,108000,22900,ESSENCE,AUTOMATIQUE,Gris,Trois-Rivieres,PARTICULIER,2026-08-05,"VUS robuste tout équipé, sellerie cuir propre."
+278,Toyota,Camry,2015,162000,10900,ESSENCE,AUTOMATIQUE,Blanc,Montreal,CONCESSIONNAIRE,2026-09-01,"Fiabilité exemplaire, aucun bruit de suspension."
+279,Honda,Accord,2017,96000,15900,ESSENCE,AUTOMATIQUE,Argent,Quebec,PARTICULIER,2026-07-30,Habitacle confortable pour de longues distances.
+280,Ford,F-150,2018,131000,24900,ESSENCE,AUTOMATIQUE,Noir,Laval,CONCESSIONNAIRE,2026-09-08,"Prêt pour le travail, intérieur en tissu robuste."
+281,Toyota,Corolla,2021,39000,20900,ESSENCE,AUTOMATIQUE,Blanc,Gatineau,PARTICULIER,2026-08-15,"Économe et fiable au quotidien, sous garantie de base."
+282,Honda,Civic,2018,84000,15900,ESSENCE,AUTOMATIQUE,Gris,Sherbrooke,CONCESSIONNAIRE,2026-09-05,Version LX avec banquette arrière rabattable.
+283,Tesla,Model 3,2022,21000,40500,ELECTRIQUE,AUTOMATIQUE,Noir,Longueuil,PARTICULIER,2026-08-22,"Pompe à chaleur incluse, état général impeccable."
+284,Ford,Escape,2019,69000,16900,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,CONCESSIONNAIRE,2026-09-02,VUS de taille idéale pour stationner en ville.
+285,BMW,Série 3,2018,79000,24900,ESSENCE,AUTOMATIQUE,Blanc,Montreal,PARTICULIER,2026-08-08,"Style sport élégant, conduite précise et réactive."
+286,Toyota,RAV4,2021,29000,29500,HYBRIDE,AUTOMATIQUE,Argent,Quebec,CONCESSIONNAIRE,2026-09-04,Modèle XLE recherché pour son économie d'énergie.
+287,Honda,CR-V,2020,45000,25900,ESSENCE,AUTOMATIQUE,Noir,Laval,PARTICULIER,2026-08-11,"Excellent état, toujours entretenu à la concession."
+288,Hyundai,Elantra,2018,76000,13500,ESSENCE,AUTOMATIQUE,Blanc,Gatineau,CONCESSIONNAIRE,2026-09-01,"Parfait état de marche, freins arrières neufs."
+289,Tesla,Model Y,2023,13000,48900,ELECTRIQUE,AUTOMATIQUE,Gris,Sherbrooke,PARTICULIER,2026-08-24,Tapis de sol moulés protecteurs inclus dans la vente.
+290,Nissan,Rogue,2020,46000,20900,ESSENCE,AUTOMATIQUE,Bleu,Longueuil,CONCESSIONNAIRE,2026-09-03,Équipé de l'ensemble d'aide à la conduite.
+291,Volkswagen,Golf,2017,94000,14500,ESSENCE,AUTOMATIQUE,Gris,Trois-Rivieres,PARTICULIER,2026-08-03,Boîte de vitesse automatique double embrayage rapide.
+292,Audi,A4,2020,47000,29900,ESSENCE,AUTOMATIQUE,Noir,Montreal,CONCESSIONNAIRE,2026-09-06,Système d'infodivertissement MMI à écran tactile.
+293,Mazda,3,2022,17000,24200,ESSENCE,AUTOMATIQUE,Rouge,Quebec,PARTICULIER,2026-08-18,"Très bien soignée, couleur éclatante au soleil."
+294,Kia,Forte,2021,33000,18200,ESSENCE,AUTOMATIQUE,Gris,Laval,CONCESSIONNAIRE,2026-09-02,Garantie d'usine transférable toujours active.
+295,Chevrolet,Bolt,2022,18000,26900,ELECTRIQUE,AUTOMATIQUE,Blanc,Gatineau,PARTICULIER,2026-08-05,Modèle de l'année avec intérieur redessiné.
+296,Subaru,Impreza,2019,52000,18500,ESSENCE,AUTOMATIQUE,Noir,Sherbrooke,CONCESSIONNAIRE,2026-09-01,Sécurité absolue grâce à la traction intégrale.
+297,Jeep,Grand Cherokee,2020,56000,32900,ESSENCE,AUTOMATIQUE,Argent,Longueuil,PARTICULIER,2026-08-14,Toit ouvrant panoramique et intérieur tout cuir.
+298,Toyota,Camry,2018,79000,19900,ESSENCE,AUTOMATIQUE,Bleu,Trois-Rivieres,CONCESSIONNAIRE,2026-09-04,Confort de roulement exceptionnel sur autoroute.
+299,Honda,Accord,2019,48000,23400,ESSENCE,AUTOMATIQUE,Gris,Montreal,PARTICULIER,2026-07-28,Modèle Sport avec roues de 19 pouces d'origine.
+300,Ford,F-150,2020,62000,36900,ESSENCE,AUTOMATIQUE,Noir,Quebec,CONCESSIONNAIRE,2026-09-10,Version SuperCrew spacieuse avec marchepieds d'origine.
