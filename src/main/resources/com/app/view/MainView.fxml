@@ -35,6 +35,12 @@
             <Button text="Précédent" onAction="#pagePrecedente"/>
             <Button text="Suivant" onAction="#pageSuivante"/>
         </HBox>
+        <!-- À mettre tout en bas du PANNEAU CENTRAL dans le FXML -->
+        <HBox spacing="10" alignment="CENTER">
+            <Button text="Ajouter" onAction="#actionAjouter" styleClass="button"/>
+            <Button text="Modifier" onAction="#actionModifier" styleClass="button"/>
+            <Button text="Supprimer" onAction="#actionSupprimer" style="-fx-background-color: #d63031; -fx-text-fill: white;"/>
+        </HBox>
         <Label fx:id="lblBenchmark" text="Benchmark - Bubble: 0ms | Merge: 0ms" style="-fx-font-style: italic; -fx-text-fill: gray;"/>
     </VBox>
 
